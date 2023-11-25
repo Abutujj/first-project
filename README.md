@@ -22,6 +22,7 @@ The following power bi features were incorporated:
 - Tooltips
 
 ## Modelling:
+![](https://github.com/Abutujj/first-project/blob/main/Data_modeling.png)
 The datetable created was model with the main table inorder to create a relationship.
 The model is a star schema
 One dimensional table and 1 fact table joined with one-to-one relationship
